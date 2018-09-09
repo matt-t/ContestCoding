@@ -1,1 +1,1 @@
-ContestCoding Practice Problems
+Contest Coding Practice Problems
